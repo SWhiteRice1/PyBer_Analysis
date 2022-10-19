@@ -2,7 +2,7 @@
 The purpose of this analysis is to determine the number of fares for Rural, Suburban, and Urban types using Python and MatPlotLib
 ## Analysis
 Using city data and ride share data from PyBer, the data was merged in order to analyze the number of rides, drives, and fare amounts.
-!summary_1.png
+!"../summary_1.png"
 After merging the data, total rides, drivers, and sum of fares was determined and used to find average fares for drivers by city type. 
 !summary_by_type.png
 ## Summary
